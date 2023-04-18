@@ -9,37 +9,52 @@
     <a href="https://www.linkedin.com/in/jessica-yohana-espejo-parada-106345252/">
       <img alt="linkedin" src="https://www.flaticon.es/icono-gratis/linkedin_174857" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+    <a href=" https://docs.google.com/document/d/1VkAoIE8fJ5L3Z2kFMdUqI7YFOG8cf9pzFQ-z1be7WZw/edit?usp=sharing">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/cv/github-readme-stats" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
+   
+
+---
+
+### 👨‍💻 About Me :
+
+
+
+- 💬 Ask me about **PHP, c++ c, node js , next js, app hive, React , React native, Javascript**
+
+- 📫 How to reach me **jessicaespejo79@gmail.com**
+
+- 🌱 I’m currently learning **React native, angular, etc**
 
 
 
 
-Here are some ideas t
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
+</div>
+
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JessicaEspejo&theme=tokyonight&hide_border=verdadero&border_radius=4.6&locale=es&mode=weekly)](https://git.io/streak-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaEspejo&show_icons=true&bg_color=00000000)
+                                                                                                                                                  
+                                                                                                                                                  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/JessicaEspejo/github-readme-stats)
